@@ -1,0 +1,14 @@
+public class Main
+{
+	public static void main(String[] args) {
+	
+		int man = 160;
+		
+		if(man>=160){
+		    System.out.println("you can enter");
+		    	}else if(man<160){
+		    System.out.println("you can’t enter");
+		}
+		
+	}
+}
